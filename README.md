@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/xeraaGH/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/xeraaGH/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01)
+
 # Gobble & Gone — The Great Thanksgiving Breakout
 
 Entry #1 for the make.fun bounty **"Make the best turkey escape game"**
