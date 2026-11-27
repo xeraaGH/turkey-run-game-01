@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>Gobble &amp; Gone — The Great Thanksgiving Breakout</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #2a1a0e; height: 100%; }
+  body { display: flex; align-items: center; justify-content: center; font-family: Georgia, serif; }
+  #wrap { width: min(1280px, 100vw); }
+  canvas { display: block; width: 100%; height: auto; background: #f2a65e; cursor: pointer; }
+  #help { color: #f2d8a0; text-align: center; font-size: 14px; padding: 8px 0; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="720"></canvas>
+  <div id="help">Arrows / WASD move &nbsp;•&nbsp; Space jump &nbsp;•&nbsp; H hide in haystacks &nbsp;•&nbsp; E gobble corn &nbsp;•&nbsp; M mute &nbsp;•&nbsp; Enter start</div>
+</div>
+<script src="src/sprites.js"></script>
+<script src="src/audio.js"></script>
+<script src="src/stages.js"></script>
+<script src="src/hazards.js"></script>
+<script src="src/turkey.js"></script>
+<script src="src/farmer.js"></script>
+<script src="src/hud.js"></script>
+<script src="src/main.js"></script>
+</body>
+</html>
